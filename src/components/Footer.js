@@ -1,6 +1,5 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import {Person,Mail} from "@material-ui/icons";
 import {
   AiFillGithub,
   AiOutlineTwitter,
