@@ -9,6 +9,7 @@ import {
   DiJava
   
 } from "react-icons/di";
+
 import { SiFirebase } from "react-icons/si";
 
 function Techstack() {
